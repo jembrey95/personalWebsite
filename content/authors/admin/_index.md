@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: The University of New South Wales
+  url: https://www.unsw.edu.au/
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,10 +42,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Jake Embrey
+title: Jake Ryan Embrey
 ---
 
-Jake Embrey is the worst student at UNSW
+Jake is a PhD candidate in Ben Newell's Cognition Lab at the University of New South Wales. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
