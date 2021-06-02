@@ -3,21 +3,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Graduate Certificate in Data Science
+    institution: The University of Sydney
+    year: 2020
+  - course: Bachelor of Psychological Science (Honours, First Class)
+    institution: UNSW
+    year: 2017
+  - course: Bachelor of Psychological Science (Major in Philosophy)
+    institution: UNSW
+    year: 2016
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cognitive Psychology
+- Modelling Mental Effort
+- Information Seeking & Avoidance
 organizations:
 - name: The University of New South Wales
   url: https://www.unsw.edu.au/
@@ -46,6 +46,8 @@ title: Jake Ryan Embrey
 ---
 
 Jake is a PhD candidate in Ben Newell's Cognition Lab at the University of New South Wales. 
+
+Broadly, his PhD topic is focused on mental effort. More specifically, the subjective cost (or gain) associated with the extertion of mental effort and why its exertion is experienced as aversive. Also, the cirumstances where people seek effort in the absence of extrinsic reward/motivation.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
